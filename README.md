@@ -247,13 +247,19 @@ pip install -r requirements.txt
 
 ### API Key
 
-Copy the example env file and add your key:
+> **For graders / TAs:** You need to supply your own Google AI API key to run this project. The key is free and takes about 1 minute to obtain — no credit card required.
+>
+> 1. Go to [aistudio.google.com](https://aistudio.google.com) and sign in with a Google account
+> 2. Click **"Get API key"** → **"Create API key"**
+> 3. Copy the key
+
+Then create a `.env` file in the project root:
 
 ```bash
 cp .env.example .env
 ```
 
-Open `.env` and replace the placeholder:
+Open `.env` and paste your key:
 
 ```
 GOOGLE_API_KEY=your_google_api_key_here
