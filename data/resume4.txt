@@ -1,0 +1,31 @@
+Michael Chen
+michael.chen@outlook.com | (212) 555-0347 | New York, NY | linkedin.com/in/michaelchen
+
+SUMMARY
+Engineering manager with 14 years in fintech and payments. Led platform teams through two company acquisitions; currently overseeing post-acquisition technical integration at JPMorgan Chase.
+
+EXPERIENCE
+Engineering Manager — Payments Platform
+JPMorgan Chase (formerly WePay), New York, NY
+August 2019 – Present
+- Managed team of 20 engineers post-acquisition; led technical integration of WePay systems into Chase merchant services platform
+- Delivered $45M payment processing modernization on schedule across 3 cross-functional teams
+- Reduced incident response time from 48 h to 4 h through on-call runbook overhaul and SLO dashboards
+
+Senior Software Engineer — WePay (acquired by JPMorgan Chase 2017)
+New York, NY
+January 2016 – July 2019
+- Core contributor to WePay's payment gateway serving 400k+ merchants
+- Designed API versioning strategy adopted across all product lines after acquisition
+
+Software Engineer — Braintree (acquired by PayPal 2013)
+Chicago, IL
+June 2012 – December 2015
+- Built fraud detection models cutting chargebacks by 23%
+- Migrated monolithic billing service to microservices, reducing deploy time from 2 h to 12 min
+
+EDUCATION
+B.S. Electrical Engineering and Computer Science, MIT, 2012
+
+SKILLS
+Java, Python, Kubernetes, AWS, Kafka, PostgreSQL, Terraform, Go, System Design, Agile, Scrum

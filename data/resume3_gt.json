@@ -1,0 +1,18 @@
+{
+  "name": "Sophie Muller",
+  "email": "sophie.muller@email.de",
+  "phone": "+49 176 555 0284",
+  "location": "Berlin, Germany",
+  "education": [
+    {"degree": "M.Sc.", "major": "Computer Science", "school": "Technical University of Munich", "year": "2018"},
+    {"degree": "B.Sc.", "major": "Computer Science", "school": "University of Stuttgart", "year": "2016"}
+  ],
+  "experience": [
+    {"company": "N26 GmbH", "title": "Senior Software Engineer", "start_year": "2022", "end_year": "Present"},
+    {"company": "Zalando SE", "title": "Software Engineer", "start_year": "2019", "end_year": "2022"},
+    {"company": "Thoughtworks GmbH", "title": "Junior Developer", "start_year": "2018", "end_year": "2019"}
+  ],
+  "skills": ["Go", "Python", "TypeScript", "SQL", "Bash", "React", "FastAPI", "Django", "gRPC", "AWS", "Docker", "Kubernetes", "Terraform", "PostgreSQL", "Redis", "Kafka"],
+  "years_total_experience": 8.0,
+  "missing_fields": []
+}

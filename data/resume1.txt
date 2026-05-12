@@ -1,0 +1,22 @@
+Jane Smith
+jane.smith@email.com | (415) 555-0192 | San Francisco, CA | linkedin.com/in/janesmith
+
+EDUCATION
+B.S. Computer Science, University of California, Berkeley, 2019
+
+EXPERIENCE
+Senior Software Engineer — Stripe, San Francisco, CA
+June 2021 – Present
+- Led backend development for payment reconciliation service handling $2B monthly transactions
+- Reduced API latency by 40% through query optimization and caching strategies
+
+Software Engineer — Airbnb, San Francisco, CA
+July 2019 – May 2021
+- Built real-time pricing recommendation engine using Python and TensorFlow
+- Collaborated cross-functionally with product and design teams on 3 major feature launches
+
+SKILLS
+Python, Go, SQL, PostgreSQL, Redis, Docker, Kubernetes, AWS, TensorFlow, Git, React, REST APIs
+
+PROJECTS
+Open-source contributor to FastAPI (500+ GitHub stars on personal repos)

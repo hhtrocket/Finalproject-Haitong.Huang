@@ -1,0 +1,18 @@
+{
+  "name": "Haitong Huang",
+  "email": "haitonghuang7@gmail.com",
+  "phone": "(410) 555-0192",
+  "location": "Baltimore, MD",
+  "education": [
+    {"degree": "MD/PhD", "major": "Biomedical Informatics", "school": "Johns Hopkins University", "year": "2018"},
+    {"degree": "B.S.", "major": "Biomedical Engineering", "school": "Carnegie Mellon University", "year": "2011"}
+  ],
+  "experience": [
+    {"company": "Optum AI", "title": "Director, Healthcare AI Programs", "start_year": "2023", "end_year": "Present"},
+    {"company": "Mayo Clinic Platform", "title": "Senior AI Project Manager", "start_year": "2020", "end_year": "2022"},
+    {"company": "IBM Watson Health", "title": "AI / ML Project Manager", "start_year": "2018", "end_year": "2020"}
+  ],
+  "skills": ["Python", "SQL", "AWS", "Azure", "GCP", "Jira", "Epic", "Cerner", "HIPAA", "MLOps"],
+  "years_total_experience": 8.0,
+  "missing_fields": []
+}

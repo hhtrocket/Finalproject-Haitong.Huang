@@ -1,0 +1,21 @@
+Priya Nair
+priya.nair@gmail.com | Toronto, ON, Canada
+linkedin.com/in/priyanair | github.com/priyanair
+
+EDUCATION
+M.Sc. Statistics — University of Toronto, 2021
+B.Tech Computer Science — IIT Bombay, 2019
+
+EXPERIENCE
+Data Scientist — Shopify, Toronto, ON
+March 2021 – Present
+- Built product recommendation models serving 1.8M daily active merchants using PyTorch and PySpark
+- Reduced model training time by 60% through distributed training on AWS SageMaker
+- Published internal research on cold-start recommendation using graph embeddings
+
+Data Science Intern — Royal Bank of Canada, Toronto, ON
+May 2020 – August 2020
+- Developed credit risk scoring model with 15% improvement in AUC over existing logistic regression baseline
+
+SKILLS
+Python, R, SQL, PyTorch, TensorFlow, PySpark, AWS SageMaker, Scikit-learn, Pandas, Tableau, Git, Docker
